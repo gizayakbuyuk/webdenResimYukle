@@ -1,0 +1,9 @@
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\bin\Debug\Picturebox a webden resim yüklemek.exe.config
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\bin\Debug\Picturebox a webden resim yüklemek.exe
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\bin\Debug\Picturebox a webden resim yüklemek.pdb
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\obj\Debug\Picturebox_a_webden_resim_yüklemek.Form1.resources
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\obj\Debug\Picturebox_a_webden_resim_yüklemek.Properties.Resources.resources
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\obj\Debug\Picturebox a webden resim yüklemek.csproj.GenerateResource.Cache
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\obj\Debug\Picturebox a webden resim yüklemek.exe
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\obj\Debug\Picturebox a webden resim yüklemek.pdb
+D:\Görsel Programlama\18. Ders (15.03.2016)\Picturebox a webden resim yüklemek\Picturebox a webden resim yüklemek\obj\Debug\Picturebox a webden resim yüklemek.csprojResolveAssemblyReference.cache
